@@ -73,6 +73,10 @@ namespace Elemendid
         {
             await Navigation.PushAsync(new picker());
         }
+        private async void Tbl_btn_Clicked(object sender, EventArgs e)
+        {
+            await Navigation.PushAsync(new picker());
+        }
     }
 }
 
