@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="Elemendid.note20">
+    <ContentPage.Content>
+        <StackLayout>
+            <Label Text="Display: 6.9-inch AMOLED (3088x1440) | Android version: 10 with Samsung One UI 2.5 | CPU: Snapdragon 865 Plus | RAM: 12GB | Storage / Expandable: 128GB, 256GB, 512GB / Yes |
+                   Rear camera: 108MP wide (ƒ/1.8); 12MP telephotos with 5x optical zoom (ƒ/3.0); 12MP ultrawide (ƒ/2.2) | Front camera: 10MP (ƒ/2.2) | Battery life (Hrs:Mins): 10:15" />
+        </StackLayout>
+    </ContentPage.Content>
+</ContentPage>

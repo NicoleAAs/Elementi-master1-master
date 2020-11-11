@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="Elemendid.pixel4">
+    <ContentPage.Content>
+        <StackLayout>
+            <Label Text="Display: 5.81-inch OLED (2340x1080) | Android version: 10 | CPU: Snapdragon 730G | RAM: 6GB |
+                   Storage / Expandable: 128GB / No | Rear camera: 12.2MP (ƒ/1.7) | Front camera: 8MP (ƒ/2.0) | Battery life (Hrs:Mins): 8:55" />
+        </StackLayout>
+    </ContentPage.Content>
+</ContentPage>

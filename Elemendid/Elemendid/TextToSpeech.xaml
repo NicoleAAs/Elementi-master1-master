@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="Elemendid.TextToSpeech">
+    <ContentPage.Content>
+        <StackLayout>
+            <Button Clicked="Button_Clicked"></Button>
+            <Entry x:Name="text" Placeholder="Write some text"></Entry>
+            <Slider x:Name="vol" ValueChanged="vol_ValueChanged" Minimum="0.1" Maximum="1.0"></Slider>
+            <Slider x:Name="pit" ValueChanged="pit_ValueChanged" Minimum="0.1" Maximum="1.0"></Slider>
+                
+        </StackLayout>
+    </ContentPage.Content>
+</ContentPage>

@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="Elemendid.MainPage">
+    <StackLayout Padding="50,60,50,60">
+        <Button Text="ListView" Clicked="Tbl_btn_Clicked1" TextColor="White" BackgroundColor="Purple" ></Button>
+        <Button Text="TableView" Clicked="Tbl_btn3_Clicked" TextColor="White" BackgroundColor="Purple" ></Button>
+        <Button Text="Picker" Clicked="Tbl_btn_Clicked7" TextColor="White" BackgroundColor="Purple" ></Button>
+        <Button Text="EntryEdit" Clicked="Tbl_btn_Clicked" TextColor="White" BackgroundColor="Purple" ></Button>
+        <Button Text="TimerPicker" Clicked="Tbl_btn6_Clicked" TextColor="White" BackgroundColor="Purple" ></Button>
+        <Button Text="DataPicker" Clicked="Tbl_btn_Clicked2" TextColor="White" BackgroundColor="Purple" ></Button>
+        <Button Text="WebView" Clicked="Tbl_btn5_Clicked" TextColor="White" BackgroundColor="Purple" ></Button>
+    </StackLayout>
+
+</ContentPage>

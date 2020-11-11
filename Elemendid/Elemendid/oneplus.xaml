@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="Elemendid.oneplus">
+    <ContentPage.Content>
+        <StackLayout>
+            <Label Text="Display: 6.78-inch OLED (3168x1440) | Android version: 10 with Oxygen OS | CPU: Snapdragon 865 | RAM: 8GB, 12GB | Storage / Expandable: 128GB, 256GB / No | 
+                   Rear camera: 48MP wide (ƒ/1.78); 48MP ultrawide (ƒ/2.2); 8MP 3X telephoto (ƒ/2.4); 5MP color filter | Front camera: 16MP (ƒ/2.5) | Battery life (Hrs:Mins): 11:05" />
+        </StackLayout>
+    </ContentPage.Content>
+</ContentPage>
